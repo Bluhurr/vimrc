@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/bluhurr'
-let g:netrw_dirhist_6='/home/bluhurr/react-apps/my-todo/src'
-let g:netrw_dirhist_5='/home/bluhurr/react-apps/my-todo'
-let g:netrw_dirhist_4='/home/bluhurr/react-apps/my-todo/src'
-let g:netrw_dirhist_3='/home/bluhurr/react-apps/my-todo'
-let g:netrw_dirhist_2='/mnt/c/Users/Greg/ubuntu/react-apps/react-app1/src'
-let g:netrw_dirhist_1='/mnt/c/Users/Greg/ubuntu/react-apps/react-app1'
